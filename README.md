@@ -37,8 +37,7 @@ Some of the featured dishes include:
 
 - **HTML5** – Provides the structure and content of the website.
 - **CSS3** – Handles the design, styling, layout, and responsiveness.
-- **JavaScript** – Adds interactive website functionality.
-
+  
 ## 📂 Website Pages
 
 - `index.html` – Main homepage
@@ -67,7 +66,7 @@ It aims to improve the restaurant's online presence, present its food offerings,
 
 ## 👩‍💻 Developer
 
-**Developed by:** Ellerex
+**Developed by:** MARY JANE R. GERELA
 
 **Project Name:** Emjey Restaurant Website
 
